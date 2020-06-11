@@ -15,3 +15,9 @@ html, head, body, header - there are various parts to an html document
 # what are the two tags?
 
 Style and we also referenced bootstrap
+
+# Question 5 - how many ways can you declare a variable
+# hint - 1 old school way - the new ways
+# provide a few samples
+
+Many var= Firstname var=Lastname
